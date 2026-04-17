@@ -9,8 +9,17 @@ from scanner.payloads import PayloadGenerator
 from analyzer.response_analyzer import ResponseAnalyzer
 from exploiter.extractor import DataExtractor
 from utils.report_generator import ReportGenerator
+import pyfiglet
+import termcolor
+
+def banner():
+    ascii_banner = pyfiglet.figlet_format("SQLMAP V2.0")
+    print(termcolor.colored(ascii_banner, "cyan"))
+    print(termcolor.colored("SQLMap V2 - Professional SQL Injection Testing Tool\n", "yellow"))
+    print(termcolor.colored("Developed by 7ima-SR\n", "yellow"))
 
 def main():
+    banner()
     parser = argparse.ArgumentParser(
         description="SQLMap V2 - Professional SQL Injection Testing Tool",
         formatter_class=argparse.RawDescriptionHelpFormatter,
