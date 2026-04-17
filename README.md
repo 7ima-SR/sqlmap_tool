@@ -321,7 +321,7 @@ This tool is intended **exclusively** for:
 
 ---
 
-## License
+## 📜 License
 
 This tool is for authorized security testing only. Users are responsible for ensuring compliance with applicable laws and obtaining proper authorization before use.
 
@@ -338,12 +338,6 @@ Planned enhancements for future releases:
 - Automated remediation suggestions
 
 See full roadmap in [DELIVERY_SUMMARY.md](DELIVERY_SUMMARY.md).
-
----
-
-## 📜 License
-
-- This project is licensed under the MIT License.
 
 ---
 
