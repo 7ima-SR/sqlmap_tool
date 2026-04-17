@@ -1,6 +1,12 @@
-# SQLMap Tool — Professional Edition (Version 2.0)
+# 🧪 SQL Injection Testing Tool
 
 A production-grade, modular SQL Injection testing and exploitation framework for security professionals. Built with advanced detection logic, real exploitation capabilities, and comprehensive reporting.
+
+![Built With](https://img.shields.io/badge/Built%20With-Python-blue?style=flat-square)
+![Library](https://img.shields.io/badge/Library-Scapy-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Author](https://img.shields.io/badge/Author-Hima-red?style=flat-square)
 
 ---
 
@@ -336,3 +342,17 @@ See full roadmap in [DELIVERY_SUMMARY.md](DELIVERY_SUMMARY.md).
 ---
 
 **Version 2.0 — Professional Edition — April 2026**
+
+---
+
+## 📜 License
+
+- This project is licensed under the MIT License.
+
+---
+
+## 📧 Contact
+
+- Made with ❤️ by 7ima-SR
+
+- 🌐 Website: https://ibrahim-elsaied.netlify.app/
