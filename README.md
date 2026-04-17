@@ -341,10 +341,6 @@ See full roadmap in [DELIVERY_SUMMARY.md](DELIVERY_SUMMARY.md).
 
 ---
 
-**Version 2.0 — Professional Edition — April 2026**
-
----
-
 ## 📜 License
 
 - This project is licensed under the MIT License.
@@ -356,3 +352,7 @@ See full roadmap in [DELIVERY_SUMMARY.md](DELIVERY_SUMMARY.md).
 - Made with ❤️ by 7ima-SR
 
 - 🌐 Website: https://ibrahim-elsaied.netlify.app/
+
+---
+
+**Version 2.0 — Professional Edition — April 2026**
